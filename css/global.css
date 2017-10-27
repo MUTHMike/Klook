@@ -1,0 +1,59 @@
+.grid-container-wrapper .df_opening_paragraph{font-size:30px;font-family:"KievitWeb", Verdana, Helvetica, Arial, sans-serif;line-height:34px;}
+.grid-container-wrapper .df_typical_paragraph{font-size:18px;font-family:"KievitWeb", Verdana, Helvetica, Arial, sans-serif;line-height:22px;}
+.grid-container-wrapper .df_trend_headline{font-size:30px;font-family:"KievitWebLight", Verdana, Helvetica, Arial, sans-serif;line-height:34px;}
+.grid-container-wrapper .df_practice_area_header{font-size:48px;font-family:"KievitWebLight", Verdana, Helvetica, Arial, sans-serif;line-height:52px;}
+.grid-container-wrapper .df_trend_toothbrush{font-size:12px;font-family:"KievitWebLight", Verdana, Helvetica, Arial, sans-serif;line-height:15px;padding:2px 0 8px 0;margin:32px 0 0 0;border-top:2px solid #000;}
+.grid-container-wrapper .df_trend_toothbrush_number{font-size:32px;font-family:"KievitWebBold", Verdana, Helvetica, Arial, sans-serif;line-height:27px;color:#b5bf23;}
+.grid-container-wrapper .df_trend_toothbrush_number_lifestyle{font-size:32px;font-family:"KievitWebBold", Verdana, Helvetica, Arial, sans-serif;line-height:27px;color:#dd1377;}
+.grid-container-wrapper .df_trend_toothbrush_number_work{font-size:32px;font-family:"KievitWebBold", Verdana, Helvetica, Arial, sans-serif;line-height:27px;color:#f48540;}
+.grid-container-wrapper .df_trend_toothbrush_link{font-size:32px;font-family:"KievitWebBold", Verdana, Helvetica, Arial, sans-serif;line-height:36px;}
+.grid-container-wrapper .df_link_text{font-size:32px;font-family:"KievitWeb", Verdana, Helvetica, Arial, sans-serif;}
+.grid-container-wrapper .df_chunk_spacer{padding:8px 0 0 0;}
+.grid-container-wrapper .about_firm_profile_appointments{padding:0 16px 0 4px;}
+.grid-container-wrapper .about_firm_profile_appointments_super_headline{font-size:58px;font-family:"KievitWebBold", Verdana, Helvetica, Arial, sans-serif;line-height:50px;}
+.grid-container-wrapper .gridblock_super_headline{font-size:50px;font-family:"KievitWeb", Verdana, Helvetica, Arial, sans-serif;line-height:55px;}
+.grid-container-wrapper .gridblock_typical_headline{font-size:32px;font-family:"KievitWeb", Verdana, Helvetica, Arial, sans-serif;line-height:36px;}
+.grid-container-wrapper .expertise_summary_text{font-family:"KievitWebLight";font-size:20px;line-height:25px;padding:6px 12px 0 12px;}
+.grid-container-wrapper .expertise_summary_text a{color:#f48540;}
+.grid-container-wrapper .offices_contact_info{font-size:19px;line-height:23px;margin:0 0 0 8px;}
+.grid-container-wrapper .office_contact_info_250x250{font-size:18px;line-height:23px;margin:0 0 0 8px;}
+.grid-container-wrapper .number_container{font-size:22px;line-height:26px;display:block;margin:0 5px 0 0;}
+.grid-container-wrapper .number_01{font-size:100px;font-family:"KievitWeb", Verdana, Helvetica, Arial, sans-serif;line-height:85px;margin:0 0 4px 0;}
+.grid-container-wrapper .number_02{font-size:80px;font-family:"KievitWeb", Verdana, Helvetica, Arial, sans-serif;line-height:70px;margin:0 0 4px 0;}
+.grid-container-wrapper .number-big{font-size:160px;font-weight:normal;line-height:124px;margin:0 9px 0 0;}
+.grid-container-wrapper .number-two-digits{margin:0 60px 0 0;}
+.grid-container-wrapper .another-rule{color:red;}
+.grid-container-wrapper .layer-copy{margin:0 20px 0 0;}
+.grid-container-wrapper .layer-copy p{font-size:16px;margin:0 0 15px 0;}
+.grid-container-wrapper .layer-copy h2{font-size:37px;letter-spacing:-1px;margin:0 0 15px 0;font-family:"KievitWebBold", Verdana, Helvetica, Arial, sans-serif;}
+.grid-container-wrapper .layer-copy h3{font-size:37px;letter-spacing:-1px;line-height:39px;margin:0 10px 15px 0;font-family:"KievitWebBold", Verdana, Helvetica, Arial, sans-serif;}
+.grid-container-wrapper .layer-copy h4{font-size:37px;letter-spacing:-1px;line-height:39px;margin:12px 10px 0 0;font-family:"KievitWebBold", Verdana, Helvetica, Arial, sans-serif;}
+.grid-container-wrapper .clients-grid-intro{font-size:37px;font-family:"KievitWebLight", Verdana, Helvetica, Arial, sans-serif;line-height:38px;}
+.grid-container-wrapper .service_description{font-size:16px;font-family:"KievitWeb", Verdana, Helvetica, Arial, sans-serif;line-height:22px;margin:0 20px 0 0;}
+.grid-container-wrapper .sector-trends{background:#000;position:relative;width:100%;height:100%;}
+.grid-container-wrapper .sector-trends img{width:100%;height:100%;}
+.grid-container-wrapper .sector-trends .copy{position:absolute;top:0;right:0;bottom:0;left:0;color:#fff;line-height:1;}
+.grid-container-wrapper .sector-trends .copy .title{background:#f9a725;height:28.54%;overflow:hidden;padding:0 6.89%;margin-bottom:8.45%;}
+.grid-container-wrapper .sector-trends .copy .title h2{color:#fff;font-size:44px;line-height:44px;font-family:"KievitWebBold";margin:6.3% 0 0 0;}
+.grid-container-wrapper .sector-trends .copy .title h3{color:#000;font-size:45px;line-height:45px;font-family:"KievitWebLight";margin:0.8% 0 0 0;}
+.grid-container-wrapper .sector-trends .copy .trend{padding-left:6.89%;font-size:21px;font-family:"KievitWebLight";}
+.grid-container-wrapper .sector-trends .copy .trend strong{font-size:61px;font-family:"KievitWebExtraBold";color:#c5cb00;display:block;letter-spacing:-1px;}
+.grid-container-wrapper .sector-trends .copy .text{padding-left:6.89%;font-size:57px;letter-spacing:-1px;}
+.layered-block{position: relative;width: 100%;height: 100%;}
+.layered-block img{position: absolute;top: 0;left: 0;width: 100%;height: 100%;}
+.layered-block-caption{position: absolute;bottom: 0;left: 0;right: 0;height: auto;background-color: #fff;background-color: rgba(255, 255, 255, 0.8);padding: 4px 8px;font-size: 18px;line-height: 20px;}
+.image-title-bottom {position: relative;width: 100%;height: 100%;overflow: hidden;}
+.image-title-bottom img{width: 100%;height: auto;}
+.image-title-bottom  h4{position: absolute;bottom: 2px;margin: 0;font-size: 37px;line-height: 39px;font-family:"KievitWebBold", Verdana, Helvetica, Arial, sans-serif;}
+.about #contact .col .icon{display: inline-block;width: 19px;}
+.people-intro-block {padding: 16px 16px 0 16px;}
+.people-intro-block h3{font-size:37px;line-height:40px;font-family:"KievitWeb", Verdana, Helvetica, Arial, sans-serif;}
+.d26_icon_callout {width:184px;float:left;}
+.d26_margin_one {margin:0 24px 0 0;}
+.d26_icon_callout p {font-size:14px;font-family:"KievitWeb", Verdana, Helvetica, Arial, sans-serif;line-height:18px;}
+.d26_icon_callout hr {display: block;height: 1px;border: 0;border-top: 1px solid #000;margin: 1em 0;padding: 0;}
+.d26_header_text {font-size: 16px;line-height: 22px;font-family:"KievitWebBold", Verdana, Helvetica, Arial, sans-serif;margin: 0 0 1em 0;}
+p.clear {clear: both;}
+.main-nav-container .nav-menu ul {margin: 0 0 0 20px;}
+.main-nav-container .nav-menu li a.active-on {color: #ee3224}
+.main-content{margin: 0 auto;padding-left: 32px;padding-right: 32px;max-width: 1024px;}
